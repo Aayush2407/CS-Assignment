@@ -18,3 +18,11 @@
 ### 17.Write a C program to convert Hexadecimal to Binary number system.
 ### 18.Write a C program to convert Hexadecimal to Octal number system.
 ### 19.Write a C program to convert Hexadecimal to Decimal number system.
+### 20.Pyramid Star Pattern
+### 21.Hollow Pyramid Star Pattern
+### 22.Inverted Pyramid Star Pattern
+### 23.Hollow Inverted Pyramid Star Pattern
+### 24.Half Diamond Star Pattern
+### 25.Mirrored Half Diamond Star Pattern
+### 26.Full Diamond Star Pattern
+### 27.
