@@ -12,7 +12,7 @@ int main() {
     scanf("%d",&maths);
     printf("Enter marks for Computer out of 100 :");
     scanf("%d",&cs);
-    per=(phy+bio+chem+cs+maths)/5;
+    per=(float)(phy+bio+chem+cs+maths)/5;
     if(per>=90)
     { grade='A';}
     else if(per<90 && per>=80)
