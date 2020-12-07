@@ -6,5 +6,5 @@
       for(int j=0;j<5;++j)
        printf("1");
    }
- return 0;
+ 
  }
