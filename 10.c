@@ -2,7 +2,7 @@
 #include <math.h>
 int main() {
 	int n,d=0,r,f=1,j=0,i=0;
-	char h[20]={0},hex[20]= 
+	char h[20]={0},hex[20]= {0};
 	printf("Enter the binary number: ");
 	scanf("%d",&n);
 	while (n>0) {
