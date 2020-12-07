@@ -1,4 +1,5 @@
-#`` CS-Assignment ``
+# CS-Assignment 
+## *C Programming Exercises*
 ### 1.Write a C program to count number of digits in a number. 
 ### 2.Write a C program to swap first and last digits of a number.
 ### 3.Write a C program to find frequency of each digit in a given integer.
@@ -18,18 +19,21 @@
 ### 17.Write a C program to convert Hexadecimal to Binary number system.
 ### 18.Write a C program to convert Hexadecimal to Octal number system.
 ### 19.Write a C program to convert Hexadecimal to Decimal number system.
-### 20.Pyramid Star Pattern
-### 21.Hollow Pyramid Star Pattern
-### 22.Inverted Pyramid Star Pattern
-### 23.Hollow Inverted Pyramid Star Pattern
-### 24.Half Diamond Star Pattern
-### 25.Mirrored Half Diamond Star Pattern
-### 26.Full Diamond Star Pattern
-### 27.Square Number Pattern 1
-### 28.Square Number Pattern 2
-### 29.Square Number Pattern 3
-### 30.Square Number Pattern 4
-### 31.Square Number Pattern 5
-### 32.Square Number Pattern 6
+## *Pattern Exercises*
+### 1.Pyramid Star Pattern
+### 2.Hollow Pyramid Star Pattern
+### 3.Inverted Pyramid Star Pattern
+### 4.Hollow Inverted Pyramid Star Pattern
+### 5.Half Diamond Star Pattern
+### 6.Mirrored Half Diamond Star Pattern
+### 7.Full Diamond Star Pattern
+### 8.Square Number Pattern 1
+### 9.Square Number Pattern 2
+### 10.Square Number Pattern 3
+### 11.Square Number Pattern 4
+### 12.Square Number Pattern 5
+### 13.Square Number Pattern 6
+## *If...Else Exercises*
+
 
 
