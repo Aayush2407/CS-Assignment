@@ -30,4 +30,6 @@
 ### 29.Square Number Pattern 3
 ### 30.Square Number Pattern 4
 ### 31.Square Number Pattern 5
+### 32.Square Number Pattern 6
+
 
