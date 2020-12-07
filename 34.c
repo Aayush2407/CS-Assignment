@@ -7,10 +7,10 @@ int main()
     scanf("%c",&a);
     if(isupper(a)!=0)
     {
-        printf("The charecter is UPPERCASE");
+        printf("The character is UPPERCASE.");
     }
     else {  
-           printf("The charecter is LOWERCASE"); 
+           printf("The character is LOWERCASE."); 
          }
     return 0;
 }
