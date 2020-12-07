@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main() {
-	int oct,o=0,b=0,x,f=1;
+	int n,o=0,b=0,x,f=1;
 	printf("Enter the octal number : ");
 	scanf("%d",&n);
 	while (n>0) {
-		o=o*10+oct%10;
+		o=o*10+n%10;
 		n/=10;
 	}
 	printf("The number in binary is: ");
