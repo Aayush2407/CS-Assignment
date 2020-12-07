@@ -7,7 +7,7 @@ int main() {
 	fgets(h,20,stdin);
 	s = strlen(h);
 	for(i=s-2;i>=0;i--) {
-		if (h[i]>='A' && hex[i]<='F')
+		if (h[i]>='A' && h[i]<='F')
 			d+=(h[i]-55)*f;
 		else 
 			d+=(h[i]-48)*f;
