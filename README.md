@@ -25,4 +25,9 @@
 ### 24.Half Diamond Star Pattern
 ### 25.Mirrored Half Diamond Star Pattern
 ### 26.Full Diamond Star Pattern
-### 27.
+### 27.Square Number Pattern 1
+### 28.Square Number Pattern 2
+### 29.Square Number Pattern 3
+### 30.Square Number Pattern 4
+### 31.Square Number Pattern 5
+
