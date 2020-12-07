@@ -20,19 +20,19 @@
 ### *18.Write a C program to convert Hexadecimal to Octal number system.*
 ### *19.Write a C program to convert Hexadecimal to Decimal number system.*
 ## Pattern Exercises
-### *1.Pyramid Star Pattern
-### 2.Hollow Pyramid Star Pattern
-### 3.Inverted Pyramid Star Pattern
-### 4.Hollow Inverted Pyramid Star Pattern
-### 5.Half Diamond Star Pattern
-### 6.Mirrored Half Diamond Star Pattern
-### 7.Full Diamond Star Pattern
-### 8.Square Number Pattern 1
-### 9.Square Number Pattern 2
-### 10.Square Number Pattern 3
-### 11.Square Number Pattern 4
-### 12.Square Number Pattern 5
-### 13.Square Number Pattern 6*
+### *1.Pyramid Star Pattern*
+### *2.Hollow Pyramid Star Pattern*
+### *3.Inverted Pyramid Star Pattern*
+### *4.Hollow Inverted Pyramid Star Pattern*
+### *5.Half Diamond Star Pattern*
+### *6.Mirrored Half Diamond Star Pattern*
+### *7.Full Diamond Star Pattern*
+### *8.Square Number Pattern 1*
+### *9.Square Number Pattern 2*
+### *10.Square Number Pattern 3*
+### *11.Square Number Pattern 4*
+### *12.Square Number Pattern 5*
+### *13.Square Number Pattern 6*
 ## If...Else Exercises
 
 
