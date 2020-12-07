@@ -5,7 +5,7 @@ int main() {
 	int d=0,s,o=0,f=1;
 	printf("Enter the hexadecimal value: ");
 	fgets(h,20,stdin);
-	s = strlen(hex);
+	s = strlen(h);
 	for(int i=s-2;i>=0;i--) {
 		if (h[i]>='A' && h[i]<='F')
 			d+=(h[i]-55)*f;
