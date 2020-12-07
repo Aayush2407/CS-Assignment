@@ -1,5 +1,5 @@
 # CS-ASSIGNMENT 
-## C Programming Exercises
+## - C Programming Exercises -
 ### *1.Write a C program to count number of digits in a number.*
 ### *2.Write a C program to swap first and last digits of a number.*
 ### *3.Write a C program to find frequency of each digit in a given integer.*
@@ -19,7 +19,7 @@
 ### *17.Write a C program to convert Hexadecimal to Binary number system.*
 ### *18.Write a C program to convert Hexadecimal to Octal number system.*
 ### *19.Write a C program to convert Hexadecimal to Decimal number system.*
-## Pattern Exercises
+## - Pattern Exercises -
 ### *1.Pyramid Star Pattern*
 ### *2.Hollow Pyramid Star Pattern*
 ### *3.Inverted Pyramid Star Pattern*
@@ -33,7 +33,7 @@
 ### *11.Square Number Pattern 4*
 ### *12.Square Number Pattern 5*
 ### *13.Square Number Pattern 6*
-## If...Else Exercises
+## - If...Else Exercises -
 
 
 
