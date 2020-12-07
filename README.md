@@ -1,4 +1,4 @@
-# CS-Assignment
+#`` CS-Assignment ``
 ### 1.Write a C program to count number of digits in a number. 
 ### 2.Write a C program to swap first and last digits of a number.
 ### 3.Write a C program to find frequency of each digit in a given integer.
