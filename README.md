@@ -20,10 +20,10 @@
 ### *18.Write a C program to convert Hexadecimal to Octal number system.*
 ### *19.Write a C program to convert Hexadecimal to Decimal number system.*
 ## - Pattern Exercises -
-### *1.Pyramid Star Pattern*
-### *2.Hollow Pyramid Star Pattern*
-### *3.Inverted Pyramid Star Pattern*
-### *4.Hollow Inverted Pyramid Star Pattern*
+### *20.Pyramid Star Pattern*
+### *21.Hollow Pyramid Star Pattern*
+### *22.Inverted Pyramid Star Pattern*
+### *23.Hollow Inverted Pyramid Star Pattern*
 ### *5.Half Diamond Star Pattern*
 ### *6.Mirrored Half Diamond Star Pattern*
 ### *7.Full Diamond Star Pattern*
@@ -39,7 +39,6 @@
 ### *3.Write a C program to input week number and print week day.*
 ### *4.Write a C program to input month number and print number of days in that month.*
 ### *5.Write a C program to count total number of notes in given amount.*
-### *6.Write a C program to input month number and print number of days in that month.*
 ### *7.Write a C program to input angles of a triangle and check whether triangle is valid or not.*
 ### *8.Write a C program to input all sides of a triangle and check whether triangle is valid or not.*
 ### *9.Write a C program to check whether the triangle is equilateral, isosceles or scalene triangle.*
